@@ -1,0 +1,4 @@
+ Se realizo la mejora de fecha y hora para que al hacer el pedido me aparezca la fecha del pedido
+Se realizo una excepcion para que no registre un producto con el mismo nombre
+Se realizo mejora que aplica el descuento 
+Se hizo validacion para verificar el stock disponible
